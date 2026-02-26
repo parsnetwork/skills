@@ -3,7 +3,7 @@ name: pars-gateway
 description: >
   Use this skill for keyless blockchain access via x402 USDC micropayments.
   No API key or account needed. Agents can sign up and pay autonomously
-  using an onchain wallet. Supports the same 100+ chains as bootnode-api.
+  using an onchain wallet. Supports the same 100+ chains as pars-api.
 metadata:
   author: parsnetwork
   version: "1.0"
